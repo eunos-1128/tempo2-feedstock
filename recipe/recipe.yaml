@@ -21,7 +21,7 @@ source:
 
 build:
   number: 1
-  skip: win
+  skip: win  # Not supported upstream
 
 requirements:
   build:
